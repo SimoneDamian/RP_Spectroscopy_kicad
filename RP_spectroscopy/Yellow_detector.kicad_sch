@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e6880419-ad7d-468f-ae8e-e5e378349916")
+	(paper "A4")
+	(title_block
+		(date "2026-03-21")
+		(rev "v1.0")
+		(comment 1 "Author: Simone Damian")
+	)
+	(lib_symbols)
+)
