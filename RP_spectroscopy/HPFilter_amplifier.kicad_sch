@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b947ef4a-78f8-46d4-af20-3056c3eb11e0")
+	(paper "A4")
+	(title_block
+		(date "2026-03-21")
+		(rev "v1.0")
+		(comment 1 "Author: Simone Damian")
+		(comment 2 "Filters and amplifies the signal from the photodiode before the demodulation")
+	)
+	(lib_symbols)
+)

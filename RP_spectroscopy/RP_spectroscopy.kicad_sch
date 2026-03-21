@@ -1,0 +1,147 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "dd9ac3ef-6a3a-4df6-b083-1a4e73093ea8")
+	(paper "A4")
+	(title_block
+		(title "Main file")
+		(date "2026-03-21")
+		(rev "v1.0")
+		(comment 1 "Author: Simone Damian")
+		(comment 2 "Contains the main structure of the project and all the links to the other components.")
+	)
+	(lib_symbols)
+	(sheet
+		(at 156.21 21.59)
+		(size 57.15 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5d9e27e0-0088-4713-901e-69adb816482f")
+		(property "Sheetname" "Connections"
+			(at 156.21 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connections.kicad_sch"
+			(at 156.21 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RP_spectroscopy"
+				(path "/dd9ac3ef-6a3a-4df6-b083-1a4e73093ea8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 21.59)
+		(size 57.15 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bf3f8fac-07ec-41dd-b631-0fb6929cc09b")
+		(property "Sheetname" "HighPass filter and amplifier"
+			(at 88.9 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HPFilter_amplifier.kicad_sch"
+			(at 88.9 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RP_spectroscopy"
+				(path "/dd9ac3ef-6a3a-4df6-b083-1a4e73093ea8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 20.32)
+		(size 52.07 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f89fc6e8-8cc7-4082-99cd-c1c1fe3e058c")
+		(property "Sheetname" "Summator"
+			(at 21.59 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Summator.kicad_sch"
+			(at 21.59 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RP_spectroscopy"
+				(path "/dd9ac3ef-6a3a-4df6-b083-1a4e73093ea8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
