@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TL081CDR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TL081CDR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-TL081CDR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL081CDR?qs=odmYgEirbwwDMR5v%252BrfUTg%3D%3D", "TL081CDR, Operational Amplifier 3MHz, 8-Pin SOIC", "http://www.ti.com/lit/ds/symlink/tl081.pdf", "1.75 mm"
+END_PART
+
+END.

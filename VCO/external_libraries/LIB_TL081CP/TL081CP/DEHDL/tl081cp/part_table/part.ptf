@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TL081CP'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TL081CP" (!) = "", "DIP794W53P254L959H508Q8N", "Dual-In-Line Packages", "595-TL081CP", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL081CP?qs=xJkDX%2FqrskP5SC31s4Mqdg%3D%3D", "TL081CP, Operational Amplifier 3MHz, 8-Pin PDIP", "http://www.ti.com/lit/ds/symlink/tl081a.pdf", "5.08 mm"
+END_PART
+
+END.

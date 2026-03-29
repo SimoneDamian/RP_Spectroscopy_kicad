@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TL081CP
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=4.4
+Released=2015-06-24 00:00:00
+Downloaded=2026-03-24 21:45:05
+3D=Y

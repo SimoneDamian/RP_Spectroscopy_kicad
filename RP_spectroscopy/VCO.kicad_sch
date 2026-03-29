@@ -3428,7 +3428,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Runtron_RM-063_Horizontal"
 			(at 22.86 133.35 0)
 			(effects
 				(font
@@ -3499,7 +3499,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 195.58 104.648 90)
 			(effects
 				(font
@@ -3517,7 +3517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 10k 1%"
 			(at 195.58 102.87 0)
 			(effects
 				(font
@@ -3585,7 +3585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "SMA RF connector, edge mount"
 			(at 19.05 66.04 0)
 			(effects
 				(font
@@ -3967,7 +3967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 27.432 77.47 90)
 			(effects
 				(font
@@ -3985,7 +3985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 10k 1%"
 			(at 29.21 77.47 0)
 			(effects
 				(font
@@ -4437,7 +4437,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 74.93 42.418 90)
 			(effects
 				(font
@@ -4455,7 +4455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 10k 1%"
 			(at 74.93 40.64 0)
 			(effects
 				(font
@@ -4507,7 +4507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 106.3752 62.23 0)
 			(effects
 				(font
@@ -4525,7 +4525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 105.41 58.42 0)
 			(effects
 				(font
@@ -4577,7 +4577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 121.6152 90.17 0)
 			(effects
 				(font
@@ -4595,7 +4595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 120.65 86.36 0)
 			(effects
 				(font
@@ -4711,7 +4711,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 142.24 105.918 90)
 			(effects
 				(font
@@ -4729,7 +4729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 10k 1%"
 			(at 142.24 104.14 0)
 			(effects
 				(font
@@ -4781,7 +4781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 121.6152 116.84 0)
 			(effects
 				(font
@@ -4799,7 +4799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 120.65 113.03 0)
 			(effects
 				(font
@@ -4916,7 +4916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 142.24 128.778 90)
 			(effects
 				(font
@@ -4934,7 +4934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 10k 1%"
 			(at 142.24 127 0)
 			(effects
 				(font
@@ -5052,7 +5052,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 36.322 77.47 90)
 			(effects
 				(font
@@ -5070,7 +5070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 10k 1%"
 			(at 38.1 77.47 0)
 			(effects
 				(font
@@ -5119,7 +5119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Ferrite_THT:FerriteBread"
 			(at 97.79 163.322 90)
 			(effects
 				(font
@@ -5664,7 +5664,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 173.99 104.648 90)
 			(effects
 				(font
@@ -5682,7 +5682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 10k 1%"
 			(at 173.99 102.87 0)
 			(effects
 				(font
@@ -5938,7 +5938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 180.0352 59.69 0)
 			(effects
 				(font
@@ -5956,7 +5956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -6383,7 +6383,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 118.11 70.1548 0)
 			(effects
 				(font
@@ -6401,7 +6401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 114.3 71.12 0)
 			(effects
 				(font
@@ -6532,7 +6532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 63.1952 148.59 0)
 			(effects
 				(font
@@ -6550,7 +6550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 62.23 144.78 0)
 			(effects
 				(font
@@ -6602,7 +6602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 31.242 118.11 90)
 			(effects
 				(font
@@ -6620,7 +6620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 220R 1%"
 			(at 33.02 118.11 0)
 			(effects
 				(font
@@ -6672,7 +6672,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 216.8652 116.84 0)
 			(effects
 				(font
@@ -6690,7 +6690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 215.9 113.03 0)
 			(effects
 				(font
@@ -6716,7 +6716,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 266.7 121.92 0)
+		(at 265.43 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6725,7 +6725,7 @@
 		(fields_autoplaced yes)
 		(uuid "da013f59-0ffe-4121-b8ee-bf216eb8735e")
 		(property "Reference" "J10"
-			(at 270.51 120.9431 0)
+			(at 269.24 124.7531 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6734,7 +6734,7 @@
 			)
 		)
 		(property "Value" "Conn_Coaxial"
-			(at 270.51 123.4831 0)
+			(at 269.24 127.2931 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6743,7 +6743,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal"
-			(at 266.7 121.92 0)
+			(at 265.43 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6752,7 +6752,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 266.7 121.92 0)
+			(at 265.43 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6760,8 +6760,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 266.7 121.92 0)
+		(property "Description" "SMA RF connector, edge mount"
+			(at 265.43 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7010,7 +7010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 50.4952 86.36 0)
 			(effects
 				(font
@@ -7028,7 +7028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 49.53 82.55 0)
 			(effects
 				(font
@@ -7210,7 +7210,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Ferrite_THT:FerriteBread"
 			(at 97.79 159.258 90)
 			(effects
 				(font
@@ -7346,7 +7346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 49.022 132.08 90)
 			(effects
 				(font
@@ -7364,7 +7364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor, 4k7 1%"
 			(at 50.8 132.08 0)
 			(effects
 				(font
@@ -7416,7 +7416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 159.7152 147.32 0)
 			(effects
 				(font
@@ -7434,7 +7434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, 100n X7R 50V"
 			(at 158.75 143.51 0)
 			(effects
 				(font

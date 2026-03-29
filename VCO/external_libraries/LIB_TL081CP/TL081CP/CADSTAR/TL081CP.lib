@@ -1,0 +1,16 @@
+.TL081CP :1 ;TL081CP, Operational Amplifier 3MHz, 8-Pin PDIP
+DIP794W53P254L959H508Q8N
+*STM IC
+*NGS
+*PLB 1="OFFSET N1" 2="IN-" 3="IN+" 4="VCC-" 5="OFFSET N2" 6="OUT" 7="VCC+" 8="NC"
+*MXP 8
+*DFN TL081CP
+~!Mouser Part Number (595-TL081CP)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL081CP?qs=xJkDX%2FqrskP5SC31s4Mqdg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TL081CP)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tl081a.pdf)
+~!Height (5.08mm)
+~!3D_Model (TL081CP)
+TL081CP
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
