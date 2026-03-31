@@ -1,0 +1,72 @@
+{
+  "Name": "Sallen-Key filter",
+  "Description": "Unitary gain Sallen-Key filter in high-pass configuration. Low noise, 5kHz cut frequency, Butterworth filter response. Around 5k input impedance at 50kHz.",
+  "Tool": "FW",
+  "Version": "1.2",
+  "Design": {
+    "visitedTabs": [
+      "filter-type",
+      "specifications",
+      "components",
+      "tolerances",
+      "next-steps"
+    ],
+    "filterType": "highPass",
+    "specifications": {
+      "gain": 0,
+      "gainUnit": "dB",
+      "passbandAttenuation": -3,
+      "passbandFrequency": 5000,
+      "stopbandAttenuation": -20,
+      "stopbandFrequency": 2500,
+      "filterResponseValue": 0,
+      "filterResponseSlider": "47"
+    },
+    "components": {
+      "vsPlus": 5,
+      "vsMinus": -5,
+      "optimization": "Noise",
+      "optimizationPreference": "nonSpecific",
+      "compensateForGbw": true,
+      "preferredAlgorithms": {
+        "sallenKey|lowPass": "lowpassV2"
+      },
+      "referenceVoltage": 0,
+      "stages": [
+        {
+          "stageLetter": "A",
+          "componentSizing": 72,
+          "gain": -1,
+          "gainEnabled": false,
+          "implementation": "sallenKey",
+          "opAmps": "LT6236"
+        },
+        {
+          "stageLetter": "B",
+          "componentSizing": 72,
+          "gain": -1,
+          "gainEnabled": false,
+          "implementation": "sallenKey",
+          "opAmps": "LT6236"
+        }
+      ],
+      "recommendedAmps": [],
+      "sortOrder": [
+        0,
+        1
+      ]
+    },
+    "tolerances": {
+      "resistorTolerance": "1%",
+      "capacitorTolerance": "5%",
+      "inductorTolerance": "5%",
+      "opAmpGbwTolerance": "20%",
+      "resistorPreferredSeries": "E96",
+      "capacitorPreferredSeries": "E24",
+      "inductorPreferredSeries": "E12"
+    },
+    "nextSteps": {}
+  },
+  "CreatedDate": "2026-03-30 09:55:09 AM",
+  "UpdatedDate": "2026-03-30 09:55:09 AM"
+}

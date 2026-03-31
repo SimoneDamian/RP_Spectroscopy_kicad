@@ -6902,7 +6902,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 			(at 143.51 88.138 90)
 			(effects
 				(font
@@ -6946,7 +6946,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 181.61 128.27 180)
+		(at 181.61 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6955,7 +6955,7 @@
 		(fields_autoplaced yes)
 		(uuid "214f58a9-1bc1-4f2a-91fe-a852054d0021")
 		(property "Reference" "C20"
-			(at 177.8 130.4291 0)
+			(at 185.42 126.1109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6964,7 +6964,7 @@
 			)
 		)
 		(property "Value" "10µ"
-			(at 177.8 127.8891 0)
+			(at 185.42 128.6509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6973,7 +6973,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.3"
-			(at 180.6448 124.46 0)
+			(at 182.5752 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)

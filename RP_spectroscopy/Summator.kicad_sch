@@ -5059,7 +5059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CSP:LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 85.09 67.31 0)
 			(effects
 				(font
@@ -6266,7 +6266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-5_HandSoldering"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 160.02 128.27 0)
 			(effects
 				(font
@@ -6962,7 +6962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CSP:LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 213.36 91.44 0)
 			(effects
 				(font
@@ -7601,7 +7601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_CSP:LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 144.78 41.91 0)
 			(effects
 				(font

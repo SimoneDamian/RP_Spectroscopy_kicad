@@ -1,0 +1,91 @@
+{
+  "Name": "Sallen-Key filter",
+  "Description": "Unitary gain Sallen-Key filter in high-pass configuration. Low noise, 5kHz cut frequency, Butterworth filter response. Around 5k input impedance at 50kHz.",
+  "Tool": "FW",
+  "Version": "1.2",
+  "Design": {
+    "visitedTabs": [
+      "filter-type",
+      "specifications",
+      "components",
+      "tolerances",
+      "next-steps"
+    ],
+    "filterType": "bandPass",
+    "specifications": {
+      "gain": 0,
+      "gainUnit": "dB",
+      "passbandAttenuation": -3,
+      "passbandFrequency": 40000,
+      "stopbandAttenuation": -20,
+      "stopbandFrequency": 80000,
+      "filterResponseValue": 0,
+      "filterResponseSlider": "47",
+      "centerFrequency": 50000
+    },
+    "components": {
+      "vsPlus": 5,
+      "vsMinus": -5,
+      "optimization": "Noise",
+      "optimizationPreference": "nonSpecific",
+      "compensateForGbw": true,
+      "preferredAlgorithms": {
+        "sallenKey|lowPass": "lowpassV2"
+      },
+      "referenceVoltage": 0,
+      "stages": [
+        {
+          "stageLetter": "A",
+          "componentSizing": 56,
+          "gain": -1,
+          "gainEnabled": false,
+          "implementation": "deliyannisFriend",
+          "opAmps": "LT6236"
+        },
+        {
+          "stageLetter": "B",
+          "componentSizing": 64,
+          "gain": -1,
+          "gainEnabled": false,
+          "implementation": "deliyannisFriend",
+          "opAmps": "LT6236"
+        },
+        {
+          "stageLetter": "C",
+          "componentSizing": 58,
+          "gain": -1,
+          "gainEnabled": false,
+          "implementation": "deliyannisFriend",
+          "opAmps": "LT6236"
+        },
+        {
+          "stageLetter": "D",
+          "componentSizing": 62,
+          "gain": -1,
+          "gainEnabled": false,
+          "implementation": "deliyannisFriend",
+          "opAmps": "LT6236"
+        }
+      ],
+      "recommendedAmps": [],
+      "sortOrder": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "tolerances": {
+      "resistorTolerance": "1%",
+      "capacitorTolerance": "1%",
+      "inductorTolerance": "5%",
+      "opAmpGbwTolerance": "20%",
+      "resistorPreferredSeries": "E96",
+      "capacitorPreferredSeries": "E24",
+      "inductorPreferredSeries": "E12"
+    },
+    "nextSteps": {}
+  },
+  "CreatedDate": "2026-03-31 05:17:19 PM",
+  "UpdatedDate": "2026-03-31 05:17:19 PM"
+}
