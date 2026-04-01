@@ -22408,9 +22408,9 @@
 			(pintype "passive")
 			(uuid "8feb1397-81b4-4d69-a059-4dc2db8f3580")
 		)
-		(pad "19" thru_hole circle
+		(pad "19" thru_hole oval
 			(at 0 -22.86)
-			(size 1.7 1.7)
+			(size 2.2 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)

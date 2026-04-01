@@ -5929,7 +5929,7 @@
 		(fields_autoplaced yes)
 		(uuid "02fcbfcf-8a3c-4881-9e0f-24aa29664850")
 		(property "Reference" "D1"
-			(at 252.73 133.3501 90)
+			(at 252.73 130.8099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5938,7 +5938,7 @@
 			)
 		)
 		(property "Value" "BAT54S"
-			(at 252.73 130.8101 90)
+			(at 252.73 133.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7200,7 +7200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 60.96 69.342 90)
 			(effects
 				(font
