@@ -13,48 +13,6 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 220.98 21.59)
-		(size 57.15 52.07)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "40735191-b9dc-4b1a-8a9c-28c26d6b3a79")
-		(property "Sheetname" "Yellow detector"
-			(at 220.98 20.8784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Yellow_detector.kicad_sch"
-			(at 220.98 74.2446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "RP_spectroscopy"
-				(path "/dd9ac3ef-6a3a-4df6-b083-1a4e73093ea8"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 156.21 21.59)
 		(size 57.15 53.34)
 		(exclude_from_sim no)

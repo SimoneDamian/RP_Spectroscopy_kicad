@@ -1657,12 +1657,6 @@
 		(uuid "761cac6d-e546-4c61-a9e5-026d208b9463")
 	)
 	(junction
-		(at 33.02 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "93cfef54-2212-482a-a959-00eae0e48eef")
-	)
-	(junction
 		(at 171.45 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1697,6 +1691,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8a88d58-1752-456c-8cfe-a1dacdf47dd0")
+	)
+	(junction
+		(at 33.02 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ecf9bb06-cedc-4c0e-bb11-f1a8e5e1c3d3")
 	)
 	(no_connect
 		(at 36.83 25.4)
@@ -2141,16 +2141,6 @@
 			(type default)
 		)
 		(uuid "5fad8530-9727-4cba-92f7-d1d87fcab969")
-	)
-	(wire
-		(pts
-			(xy 33.02 27.94) (xy 36.83 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60219321-5e1c-4ce6-b10b-a10739df9a4a")
 	)
 	(wire
 		(pts
@@ -2791,6 +2781,16 @@
 			(type default)
 		)
 		(uuid "fc85a0a8-45c6-4a63-851a-94d17b6a44e0")
+	)
+	(wire
+		(pts
+			(xy 33.02 27.94) (xy 36.83 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff51566c-8d69-43c9-a734-e09e37405d5f")
 	)
 	(global_label "Big offset"
 		(shape input)
@@ -3792,7 +3792,7 @@
 				)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3k3"
 			(at 68.58 69.85 90)
 			(effects
 				(font
@@ -4020,7 +4020,7 @@
 				)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3k3"
 			(at 85.09 77.47 90)
 			(effects
 				(font
@@ -5374,7 +5374,7 @@
 				)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "22k"
 			(at 160.02 147.32 90)
 			(effects
 				(font
@@ -5555,7 +5555,7 @@
 				)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3k3"
 			(at 68.58 57.15 90)
 			(effects
 				(font
@@ -5964,7 +5964,7 @@
 				)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3k3"
 			(at 187.96 96.52 90)
 			(effects
 				(font
@@ -7736,7 +7736,7 @@
 				)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3k3"
 			(at 214.63 104.14 90)
 			(effects
 				(font
@@ -7839,10 +7839,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e268c39e-3b74-4d54-8034-b6eb5053ee68")
 		(property "Reference" "C24"
-			(at 36.83 30.4799 0)
+			(at 25.908 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7851,7 +7850,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 36.83 33.0199 0)
+			(at 25.908 34.0361 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8167,7 +8166,7 @@
 				)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3k3"
 			(at 187.96 83.82 90)
 			(effects
 				(font
