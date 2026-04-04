@@ -9180,7 +9180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 254.635 142.24 0)
 			(effects
 				(font
@@ -9520,7 +9520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 237.49 107.315 0)
 			(effects
 				(font
@@ -9550,28 +9550,28 @@
 			)
 		)
 		(pin "5"
-			(uuid "941871fe-4220-4d7b-b379-f9475d9f47b6")
+			(uuid "941871fe-4220-4d7b-b379-f9475d9f47b7")
 		)
 		(pin "1"
-			(uuid "b4fb3ede-0287-4b35-a77d-ce6fa036831d")
+			(uuid "b4fb3ede-0287-4b35-a77d-ce6fa036831e")
 		)
 		(pin "7"
-			(uuid "1c2130e4-3ef7-4536-a58a-1c929cbfe83d")
+			(uuid "1c2130e4-3ef7-4536-a58a-1c929cbfe83e")
 		)
 		(pin "8"
-			(uuid "0a792941-2a72-44f0-85bf-3e778954d09d")
+			(uuid "0a792941-2a72-44f0-85bf-3e778954d09e")
 		)
 		(pin "6"
-			(uuid "e827dfb1-c471-45f4-9413-013d07b1e4ad")
+			(uuid "e827dfb1-c471-45f4-9413-013d07b1e4ae")
 		)
 		(pin "2"
-			(uuid "5ae5cbad-b6f3-41dd-b6e6-9d95b06b9264")
+			(uuid "5ae5cbad-b6f3-41dd-b6e6-9d95b06b9265")
 		)
 		(pin "3"
-			(uuid "8b85e1d9-868b-4aca-8b98-d51efcd8781c")
+			(uuid "8b85e1d9-868b-4aca-8b98-d51efcd8781d")
 		)
 		(pin "4"
-			(uuid "fd70f23c-f71d-4fa9-a65d-205167d8caa2")
+			(uuid "fd70f23c-f71d-4fa9-a65d-205167d8caa3")
 		)
 		(instances
 			(project ""
@@ -10404,10 +10404,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6e4d9c9b-fbcb-4181-9d18-82dc6db489cf")
 		(property "Reference" "J7"
-			(at 27.94 139.7 0)
+			(at 27.686 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10415,7 +10414,7 @@
 			)
 		)
 		(property "Value" "Molex PicoBlade"
-			(at 27.94 142.24 0)
+			(at 25.654 143.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
